@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Java**
 
-💬 Ask me about **Python, React, JavaScript... or anything [here](www.linkedin.com/in/pablo-berlanga-mbala)**
+💬 Ask me about **Python, React, JavaScript... or anything [here](https://www.linkedin.com/in/pablo-berlanga-mbala)**
 
 ⚡ Fun fact **The name Pokemon comes from the combination of "pocket" and "monster."**
 
