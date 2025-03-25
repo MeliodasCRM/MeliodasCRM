@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for new opportunities!
+🔭 I’m currently looking for new opportunities!
  
- 🌱 I’m currently learning **NodeJS, Java**
+🌱 I’m currently learning **NodeJS, Java**
 
 💬 Ask me about **Python, React, JavaScript... or anything [here](https://www.linkedin.com/in/pablo-berlanga-mbala)**
 
